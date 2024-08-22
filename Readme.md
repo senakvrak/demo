@@ -8,5 +8,10 @@ This is another repository on the GitHub Account.
    - commit
    - push
    - pull
+   - git config --global user.email "sena.kvrak316@gmial.com"
+   - git config --global user.name "Sena Kivrak"
+   - git init
+   - git add.
+   - git status
+   - git commit -m "linux change"
 
-status
